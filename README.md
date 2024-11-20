@@ -28,8 +28,8 @@ A **Real-Time Chat Application** in the MERN stack (MongoDB, Express.js, React, 
    - **CORS:** Configure cross-origin resource sharing for client-server interaction.
 
 ### Key Libraries/Tools:
-   - Frontend: `React`, `socket.io-client`, `Axios`.
-   - Backend: `Express`, `socket.io`, `jsonwebtoken`, `bcrypt`.
-   - Database: `MongoDB`, `Mongoose`.
+   - Frontend: React, socket.io-client, Axios,Tailwind CSS
+   - Backend: Express, socket.io, jsonwebtoken, bcrypt.
+   - Database: MongoDB`, Mongoose.
 
 This architecture ensures a scalable, secure, and real-time chat experience.
