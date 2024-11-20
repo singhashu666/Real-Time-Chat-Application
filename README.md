@@ -32,4 +32,4 @@ A **Real-Time Chat Application** in the MERN stack (MongoDB, Express.js, React, 
    - Backend: Express, socket.io, jsonwebtoken, bcrypt.
    - Database: MongoDB`, Mongoose.
 
-This architecture ensures a scalable, secure, and real-time chat experience.
+
